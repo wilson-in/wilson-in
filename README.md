@@ -1,6 +1,6 @@
 Hey there! 👋 I’m wilson
 
-I’m a Data Analyst passionate about uncovering stories hidden in data and transforming numbers into actionable insights. Welcome to my GitHub corner!
+I’m a Aspiring Data Scientist passionate about uncovering stories hidden in data and transforming numbers into actionable insights. Welcome to my GitHub corner!
 
 ✨ *“Data is my compass, and insights are my destination.”*
 
