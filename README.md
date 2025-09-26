@@ -9,26 +9,13 @@ I’m a Aspiring Data Scientist passionate about uncovering stories hidden in da
 - Building interactive dashboards to visualize key metrics
 - Learning data engineering with Apache Spark
 
-## 🛠️ Featured Projects
-- **Retail Sales Insights**  
-  An exploratory data analysis of e-commerce sales to identify purchasing trends and seasonality.  
-  [Repo link] | [Python, Pandas, Seaborn]
-  
-- **Customer Churn Predictor**  
-  A predictive model to flag at-risk customers using telecom data.  
-  [Repo link] | [Scikit-learn, Jupyter, Matplotlib]
-  
-- **Marketing Campaign Analyzer**  
-  Evaluated ROI of ad campaigns with SQL queries and Tableau visualizations.  
-  [Repo link] | [SQL, Tableau]
-
 ## 🧠 Skills & Tools
-- **Languages**:            Python, SQL, R, JavaScript, VBA, Bash
-- **Frameworks/Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, Dask, TensorFlow
-- **Tools**:                Excel,Tableau, Power BI, Jupyter, Git, Looker, Google BigQuery, Airflow, VS Code
-- **Databases**:            MySQL, PostgreSQL, SQLite, MongoDB
+- **Languages**:            Python, SQL, VBA, Bash
+- **Frameworks/Libraries**: Pandas, NumPy, Matplotlib,Scikit-learn, Plotly,TensorFlow
+- **Tools**:                Excel,Tableau, Power BI, Jupyter, Git, VS Code
+- **Databases**:            MySQL, PostgreSQL
 - **Domains**:              Data Analysis, Data Visualization, Business Intelligence, Statistical Modeling, ETL Processes, A/B Testing
-- **Other**:                APIs, Web Scraping, Cloud Basics (AWS, GCP), Linux Command Line
+- **Other**:                APIs, Web Scraping
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=wilson-in&show_icons=true&theme=dracula)  
