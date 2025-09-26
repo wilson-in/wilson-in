@@ -22,7 +22,6 @@ I’m a Aspiring Data Scientist passionate about uncovering stories hidden in da
 ## 🌐 Let’s Connect!
 - [Email](mailto: wilsoninforecruit@gmail.com)
 - [LinkedIn] (www.linkedin.com/in/wilson-l-)
-- [Portfolio/Blog] (https://)
 
 ## 🎉 Fun Fact
 I once analyzed a year’s worth of pizza orders to find the perfect topping combo!
