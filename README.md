@@ -18,7 +18,6 @@ I’m a Aspiring Data Scientist passionate about uncovering stories hidden in da
 - **Other**:                APIs, Web Scraping
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=wilson-in&show_icons=true&theme=dracula)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-in&layout=compact&theme=dracula)
 ## 🌐 Let’s Connect!
 - [Email](mailto: wilsoninforecruit@gmail.com)
