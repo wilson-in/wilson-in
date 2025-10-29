@@ -20,7 +20,7 @@ I’m a Aspiring Data Scientist passionate about uncovering stories hidden in da
 ## 📊 GitHub Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-in&layout=compact&theme=dracula)
 ## 🌐 Let’s Connect!
-- [Email](mailto: wilsoninforecruit@gmail.com)
+- [Email](mailto: wilson27052003@gmail.com)
 - [LinkedIn] (www.linkedin.com/in/wilson-l-)
 
 ## 🎉 Fun Fact
