@@ -6,7 +6,7 @@ Transforming ideas into **intelligent, data-driven products**.
 
 <br>
 
-<a href="https://www.linkedin.com/in/wilson-in" target="_blank">
+<a href="https://www.linkedin.com/in/wilson-in-" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -42,6 +42,7 @@ Transforming ideas into **intelligent, data-driven products**.
 
 # ⭐ Featured Projects  
 
+
 ## 🌟 **AI Learning Path Recommender**  
 A personalized ML + LLM-powered system that recommends courses, certifications and skill-paths based on user profiles.  
 Streamlit UI • Rule-based + ML • Explainable Recommendations  
@@ -56,12 +57,6 @@ An AI-powered multilingual medical assistant built using LLMs + translation pipe
 Provides safe, structured responses across languages with medical dataset finetuning.  
 
 🔗 **Repository:** https://github.com/wilson-in/multilingual_medical_chatbot  
-
----
-
-## 🎯 Analytics & Recommendation Experiments  
-Dashboards, EDA workflows, recommender prototypes, automation mini-projects.  
-*(Add links later)*
 
 ---
 
@@ -81,3 +76,4 @@ Dashboards, EDA workflows, recommender prototypes, automation mini-projects.
 ### 🚀 *Always building. Always learning.*
 
 </div>
+
