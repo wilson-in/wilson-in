@@ -94,7 +94,7 @@ A personalized ML + LLM-powered system that recommends courses, certifications a
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wilson-in&theme=tokyonight" height="165" />
+<img src="https://streak-stats.demolab.com/?user=wilson-in&theme=tokyonight" height="165" />
 </div>
 
 <br>
