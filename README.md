@@ -14,7 +14,7 @@ Transforming ideas into **intelligent, data-driven products**.
 <a href="https://github.com/wilson-in?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://huggingface.co/spaces/wilsonl/Smart_career" target="_blank">
+<a href="https://huggingface.co/spaces/wilsonl/multilingual_medical_chatbot" target="_blank">
   <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 
@@ -89,8 +89,8 @@ A personalized ML + LLM-powered system that recommends courses, certifications a
 ## 📊 GitHub Insights
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wilson-in&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-in&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=wilson-in&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wilson-in&layout=compact&theme=tokyonight" height="165" />
 </div>
 
 <div align="center">
